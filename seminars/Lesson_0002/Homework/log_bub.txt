@@ -1,0 +1,32 @@
+нояб. 28, 2022 7:43:20 PM java_Lesson.seminars.Lesson_0002.Homework.task002 main
+INFO: Запуск
+нояб. 28, 2022 7:45:13 PM java_Lesson.seminars.Lesson_0002.Homework.task002 main
+INFO: Запуск
+нояб. 28, 2022 7:45:13 PM java_Lesson.seminars.Lesson_0002.Homework.task002 FillArray
+INFO: FillArray
+нояб. 28, 2022 7:45:13 PM java_Lesson.seminars.Lesson_0002.Homework.task002 PrintArrayMin
+INFO: PrintArrayMin
+нояб. 28, 2022 7:45:40 PM java_Lesson.seminars.Lesson_0002.Homework.task002 main
+INFO: Запуск
+нояб. 28, 2022 7:45:40 PM java_Lesson.seminars.Lesson_0002.Homework.task002 FillArray
+INFO: FillArray
+нояб. 28, 2022 7:45:40 PM java_Lesson.seminars.Lesson_0002.Homework.task002 PrintArrayMin
+INFO: PrintArrayMin
+нояб. 29, 2022 2:53:00 PM java_Lesson.seminars.Lesson_0002.Homework.task002 main
+INFO: Запуск
+нояб. 29, 2022 2:53:00 PM java_Lesson.seminars.Lesson_0002.Homework.task002 FillArray
+INFO: FillArray
+нояб. 29, 2022 2:53:00 PM java_Lesson.seminars.Lesson_0002.Homework.task002 PrintArrayMin
+INFO: PrintArrayMin
+нояб. 29, 2022 2:54:01 PM java_Lesson.seminars.Lesson_0002.Homework.task002 main
+INFO: Запуск
+нояб. 29, 2022 2:54:01 PM java_Lesson.seminars.Lesson_0002.Homework.task002 FillArray
+INFO: FillArray
+нояб. 29, 2022 2:54:01 PM java_Lesson.seminars.Lesson_0002.Homework.task002 PrintArrayMin
+INFO: PrintArrayMin
+нояб. 29, 2022 2:54:19 PM java_Lesson.seminars.Lesson_0002.Homework.task002 main
+INFO: Запуск
+нояб. 29, 2022 2:54:19 PM java_Lesson.seminars.Lesson_0002.Homework.task002 FillArray
+INFO: FillArray
+нояб. 29, 2022 2:54:19 PM java_Lesson.seminars.Lesson_0002.Homework.task002 PrintArrayMin
+INFO: PrintArrayMin
