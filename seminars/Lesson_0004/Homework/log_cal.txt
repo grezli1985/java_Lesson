@@ -1,0 +1,18 @@
+дек. 09, 2022 7:49:49 PM java_Lesson.seminars.Lesson_0004.Homework.task003 main
+INFO: Запуск
+дек. 09, 2022 7:49:49 PM java_Lesson.seminars.Lesson_0004.Homework.task003 getInt
+INFO: getInt
+дек. 09, 2022 7:49:54 PM java_Lesson.seminars.Lesson_0004.Homework.task003 getInt
+INFO: пользователь ввел 2
+дек. 09, 2022 7:49:54 PM java_Lesson.seminars.Lesson_0004.Homework.task003 getInt
+INFO: getInt
+дек. 09, 2022 7:49:55 PM java_Lesson.seminars.Lesson_0004.Homework.task003 getInt
+INFO: пользователь ввел 2
+дек. 09, 2022 7:49:55 PM java_Lesson.seminars.Lesson_0004.Homework.task003 getOperation
+INFO: getOperation
+дек. 09, 2022 7:49:57 PM java_Lesson.seminars.Lesson_0004.Homework.task003 getOperation
+INFO: пользователь ввел +
+дек. 09, 2022 7:49:57 PM java_Lesson.seminars.Lesson_0004.Homework.task003 calc
+INFO: calc
+дек. 09, 2022 7:49:57 PM java_Lesson.seminars.Lesson_0004.Homework.task003 main
+INFO: результат 4
